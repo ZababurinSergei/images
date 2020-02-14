@@ -1,1 +1,3 @@
-ghj hjghjghjgh
+export ()=>{
+test
+}
