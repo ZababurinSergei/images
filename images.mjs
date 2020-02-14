@@ -1,1 +1,3 @@
-Мой дядя
+export default async ()=>{
+test
+}
