@@ -1,1 +1,3 @@
-my new file contents
+export default async () =>{
+
+}
