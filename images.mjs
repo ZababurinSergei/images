@@ -1,3 +1,8 @@
-export default () =>{
-code
+export default async ()=>{
+
+
+
+
+data:'test'
+
 }
